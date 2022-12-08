@@ -1,0 +1,14 @@
+{
+  "name": "@ws/eslint-config-vue",
+  "main": "index.js",
+  "dependencies": {
+    "@antfu/eslint-config": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "typescript": "latest"
+  },
+  "peerDependencies": {
+    "eslint": "latest"
+  }
+}

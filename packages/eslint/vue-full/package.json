@@ -1,0 +1,16 @@
+{
+  "name": "@ws/eslint-config-vue-full",
+  "main": "index.js",
+  "dependencies": {
+    "@ws/eslint-config-vue": "workspace:*",
+    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-tailwindcss": "^3.6.2"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "typescript": "latest"
+  },
+  "peerDependencies": {
+    "eslint": "latest"
+  }
+}

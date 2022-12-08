@@ -1,0 +1,7 @@
+{
+  "name": "@ws/tsconfig",
+  "files": [
+    "tsconfig.base.json",
+    "tsconfig.vue.json"
+  ]
+}

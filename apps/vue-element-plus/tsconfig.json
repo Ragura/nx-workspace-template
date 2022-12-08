@@ -1,0 +1,6 @@
+{
+  "extends": "@ws/tsconfig/tsconfig.vue.json",
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}

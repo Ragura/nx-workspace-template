@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "./apps/vue-element-plus"
+    },
+    {
+      "path": "./apps/vue-tailwind"
+    },
+    {
+      "path": "./packages/lib"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "@ws/vue-tailwind",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint \"**/*.{vue,ts,js}\"",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "^3.2.41",
+    "@ws/lib": "workspace:*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@ws/eslint-config-vue-full": "workspace:*",
+    "@ws/tsconfig": "workspace:*",
+    "vite": "^3.2.3",
+    "eslint": "latest",
+    "typescript": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest",
+    "unplugin-vue-components": "latest",
+    "unplugin-auto-import": "latest",
+    "vue-tsc": "latest"
+  }
+}
